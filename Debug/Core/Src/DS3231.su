@@ -1,0 +1,7 @@
+../Core/Src/DS3231.c:11:9:decToBcd	16	static
+../Core/Src/DS3231.c:17:5:bcdToDec	0	static
+../Core/Src/DS3231.c:24:6:ds3231_SetTime	64	static
+../Core/Src/DS3231.c:38:6:ds3231_SetTimeByTimeStruct	40	static
+../Core/Src/DS3231.c:43:6:ds3231_GetTime	40	static
+../Core/Src/DS3231.c:58:7:ds3231_GetTemp	40	static
+../Core/Src/DS3231.c:66:6:ds3231_ForceTempConv	48	static
